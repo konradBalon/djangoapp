@@ -1,5 +1,5 @@
-export DBHOST="localhost"
-export DBUSER="manager"
-export DBNAME="pollsdb"
-export DBPASS="supersecretpass"
+export DBHOST="cinemas.postgres.database.azure.com"
+export DBUSER="posgres"
+export DBNAME="cinemas"
+export DBPASS="helloWorld333!"
 
